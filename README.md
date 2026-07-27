@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
