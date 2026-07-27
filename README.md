@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -63,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
