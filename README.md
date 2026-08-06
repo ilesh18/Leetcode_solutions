@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0486-predict-the-winner](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
