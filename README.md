@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
