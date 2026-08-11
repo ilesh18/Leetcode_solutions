@@ -57,10 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
