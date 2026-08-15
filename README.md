@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
