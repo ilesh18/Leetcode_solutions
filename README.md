@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
