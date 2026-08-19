@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
