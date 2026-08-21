@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
