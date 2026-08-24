@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
