@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
