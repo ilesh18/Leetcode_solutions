@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
