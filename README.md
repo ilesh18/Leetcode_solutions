@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
