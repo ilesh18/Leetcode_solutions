@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
