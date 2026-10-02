@@ -1,29 +1,36 @@
+struct Element {
+    string str;
+    int open;
+    int close;
+};
+
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> result;
-        string current = "";
-        backtrack(result, current, 0, 0, n);
+        stack<Element> stack;
+        
+
+        stack.push({"(", 1,0});
+        while (!stack.empty()) {
+            Element curr = stack.top();
+            stack.pop();
+            if (curr.str.length() == n * 2) {
+                result.push_back(curr.str);
+                continue;
+            }
+
+            if (curr.close < curr.open){
+                stack.push({curr.str + ")", curr.open, curr.close + 1});
+            }
+
+            if (curr.open < n) {
+                stack.push({curr.str + "(", curr.open + 1, curr.close});                
+            }
+
+            
+        }
+
         return result;
-    }
-
-private:
-    void backtrack(vector<string>& result, string& current, int openCount, int closeCount, int n) {
-        if (current.length() == 2 * n) {
-            result.push_back(current);
-            return;
-        }
-
-        if (openCount < n) {
-            current.push_back('(');
-            backtrack(result, current, openCount + 1, closeCount, n);
-            current.pop_back();
-        }
-
-        if (closeCount < openCount) {
-            current.push_back(')');
-            backtrack(result, current, openCount, closeCount + 1, n);
-            current.pop_back();
-        }
     }
 };
