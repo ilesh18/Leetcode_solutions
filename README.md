@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
