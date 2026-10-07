@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
