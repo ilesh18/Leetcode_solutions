@@ -1,8 +1,8 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int ans = 0;   // Total number of insertions needed
-        int open = 0;  // Count of unmatched opening parentheses '('
+        int ans = 0; 
+        int open = 0;  
         
         for (int i = 0; i < s.length(); ++i) {
             if (s[i] == '(') {
