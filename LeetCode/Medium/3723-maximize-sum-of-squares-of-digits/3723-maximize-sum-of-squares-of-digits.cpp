@@ -5,7 +5,7 @@ public:
             return "";
         }
         
-        std::string result = "";
+        string result = "";
         result.reserve(num);
         int count_9 = sum / 9;
         int remainder = sum % 9;
