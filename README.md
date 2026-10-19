@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1929-concatenation-of-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
