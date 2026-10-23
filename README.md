@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
