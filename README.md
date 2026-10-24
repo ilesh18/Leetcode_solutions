@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
