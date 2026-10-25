@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1406-stone-game-iii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1929-concatenation-of-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Enumeration
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +403,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
