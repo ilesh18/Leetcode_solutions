@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,4 +413,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
