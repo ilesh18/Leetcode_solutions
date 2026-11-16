@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
