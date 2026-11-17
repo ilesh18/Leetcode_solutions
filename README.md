@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0054-spiral-matrix](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ilesh18/Leetcode_solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 ## Graph Theory
